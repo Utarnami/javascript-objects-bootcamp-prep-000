@@ -1,7 +1,5 @@
 var playlist = { 
   Coldplay: "Viva La Vida"
-  My Bloody Valentine: "Sometimes"
-  
 };
 
 function updatePlaylist (playlist, artistName, songTitle){
