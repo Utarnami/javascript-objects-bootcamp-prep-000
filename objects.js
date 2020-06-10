@@ -1,5 +1,5 @@
 var playlist = { 
-  Coldplay: "Viva La Vida"
+  PhilOchs: "Here's to the State of Mississippi"
 };
 
 function updatePlaylist (playlist, artistName, songTitle){
