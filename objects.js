@@ -1,4 +1,5 @@
 var playlist = { 
+  Coldplay: Viva La Vida
   
 };
 
