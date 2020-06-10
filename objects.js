@@ -1,5 +1,6 @@
 var playlist = { 
-  Coldplay: Viva La Vida
+  Coldplay: "Viva La Vida"
+  My Bloody Valentine: "Sometimes"
   
 };
 
